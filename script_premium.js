@@ -1,8 +1,7 @@
-// Variables globales
 let reservas = [];
 let currentVehicle = null;
 
-// Datos de vehículos con imágenes (manteniendo los vehículos premium)
+// Datos de vehículos con imágenes 
 const vehicleImages = {
     'Mercedes-Benz S-Class 2024': [
         'imagenes/Mercedes-S-Class/mercedes-s1.jpg',
